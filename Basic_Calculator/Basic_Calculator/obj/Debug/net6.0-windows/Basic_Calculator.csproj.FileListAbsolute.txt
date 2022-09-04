@@ -1,0 +1,17 @@
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\bin\Debug\net6.0-windows\Basic_Calculator.exe
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\bin\Debug\net6.0-windows\Basic_Calculator.deps.json
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\bin\Debug\net6.0-windows\Basic_Calculator.runtimeconfig.json
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\bin\Debug\net6.0-windows\Basic_Calculator.dll
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\bin\Debug\net6.0-windows\Basic_Calculator.pdb
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\Basic_Calculator.csproj.AssemblyReference.cache
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\Basic_Calculator.Form1.resources
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\Basic_Calculator.csproj.GenerateResource.cache
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\Basic_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\Basic_Calculator.AssemblyInfoInputs.cache
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\Basic_Calculator.AssemblyInfo.cs
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\Basic_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\Basic_Calculator.dll
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\refint\Basic_Calculator.dll
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\Basic_Calculator.pdb
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\Basic_Calculator.genruntimeconfig.cache
+C:\Users\ELiF\source\repos\Basic_Calculator\Basic_Calculator\obj\Debug\net6.0-windows\ref\Basic_Calculator.dll
